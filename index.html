@@ -1,0 +1,130 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title data-lang="siteTitle">Lebanon</title>
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" />
+  <link rel="stylesheet" href="css/style.css" />
+  <link rel="stylesheet" href="css/responsive.css" />
+  <link rel="stylesheet" href="css/rtl.css" />
+  <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png" />
+  <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png" />
+  <link rel="manifest" href="/site.webmanifest" />
+</head>
+<body>
+  <!-- Navbar -->
+  <nav class="navbar glass" style="height: 70px">
+    <span>
+      <a href="#home" style="display: flex; align-items: center">
+        <img src="./img/logo.png" alt="" class="logo_img" style="width: 100px; height: auto;"/>
+      </a>
+    </span>
+    <ul class="nav-links">
+      <li><a href="#historyLebanon" class="cir_border" data-lang="nav.historyLebanon"></a></li>
+      <li><a href="#historyResistance" class="cir_border" data-lang="nav.historyResistance"></a></li>
+      <li><a href="#historicalFigures" class="cir_border" data-lang="nav.historicalFigures"></a></li>
+      <li><a href="#services" class="cir_border" data-lang="nav.services"></a></li>
+      <li><a href="#map" class="cir_border" data-lang="nav.map"></a></li>
+      <li><p id="languageToggle" class="language-btn">English</p></li>
+    </ul>
+    <img src="./img/menu-btn.png" alt="" class="menu-btn" />
+  </nav>
+
+  <!-- Home / Hero Section -->
+  <header id="home">
+    <div class="header-content">
+      <h2 data-lang="home.welcome"></h2>
+      <div class="line"></div>
+      <h1 data-lang="home.subtitle"></h1>
+    </div>
+  </header>
+
+  <!-- History of Lebanon Section -->
+  <section class="overview" id="historyLebanon">
+    <div class="container">
+      <div class="title">
+        <h1 data-lang="historyLebanon.title"></h1>
+        <div class="line"></div>
+      </div>
+      <div class="card-summary">
+        <h2 data-lang="historyLebanon.text"></h2>
+        <a href="historyLebanon.html" data-lang="historyLebanon.cta"></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- History of Resistance Section -->
+  <section class="about" id="historyResistance" 
+   style="background-color: #fceb03; width:100vw;height:100vh;color:black">
+    <div class="container">
+      <div class="title">
+        <h1 data-lang="historyResistance.title"></h1>
+        <div class="line"></div>
+      </div>
+      <div class="card-summary">
+        <h2 data-lang="historyResistance.text"></h2>
+        <a href="historyResistance.html" data-lang="historyResistance.cta"></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Historical Figures Section -->
+  <section class="services" id="historicalFigures">
+    <div class="container">
+      <div class="title">
+        <h1 data-lang="historicalFigures.title"></h1>
+        <div class="line"></div>
+      </div>
+      <div class="card-summary">
+        <h2 data-lang="historicalFigures.text"></h2>
+        <a href="historicalFigures.html" data-lang="historicalFigures.cta"></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Services Section -->
+  <section class="visitorGuide" id="services" 
+     style="background-color: #fceb03; width:100vw;height:100vh;color:black">
+    <div class="container">
+      <div class="title">
+        <h1 data-lang="services.title"></h1>
+        <div class="line"></div>
+      </div>
+      <div class="card-summary">
+        <h2 data-lang="services.text"></h2>
+        <a href="services.html" data-lang="services.cta"></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Map Section -->
+  <section class="map" id="map">
+    <div class="container">
+      <div class="title">
+        <h1 data-lang="map.title"></h1>
+        <div class="line"></div>
+      </div>
+      <div class="card-summary">
+        <h2 data-lang="map.text"></h2>
+        <a href="map.html" data-lang="map.cta"></a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Scripts -->
+  <script>
+    const menuBtn = document.querySelector(".menu-btn");
+    const navlinks = document.querySelector(".nav-links");
+
+    menuBtn.addEventListener("click", () => {
+        navlinks.classList.toggle("mobile-menu");
+    });
+  </script>
+  <script src="js/languageManager.js"></script>
+  <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+  <script src="js/script.js"></script>
+</body>
+</html>

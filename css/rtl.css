@@ -1,0 +1,14 @@
+[dir="rtl"] {
+    text-align: right;
+    direction: rtl;
+}
+
+[dir="rtl"] .navbar {
+    text-align: left;
+    direction: ltr;
+}
+
+[dir="ltr"] .navbar {
+    text-align: left;
+    direction: ltr;
+}

@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="ar" dir="rtl">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title data-lang="historyResistance.title"></title>
+    <link
+      rel="stylesheet"
+      href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css"
+    />
+    <link rel="stylesheet" href="css/style.css" />
+    <link rel="stylesheet" href="css/responsive.css" />
+    <link rel="stylesheet" href="css/rtl.css" />
+    <link rel="apple-touch-icon" sizes="180x180" href="img/apple-touch-icon.png" />
+    <link rel="icon" type="image/png" sizes="32x32" href="img/favicon-32x32.png" />
+    <link rel="icon" type="image/png" sizes="16x16" href="img/favicon-16x16.png" />
+    <link rel="manifest" href="/site.webmanifest" />
+    <style>
+      /* Custom styles for the detail page */
+      body {
+        font-family: Arial, sans-serif;
+        margin: 0;
+        padding: 0;
+      }
+      .container {
+        max-width: 1200px;
+        margin: 0 auto;
+        padding: 20px;
+      }
+      .detail-section {
+        margin-top: 50px;
+      }
+      .detail-item {
+        margin-bottom: 30px;
+      }
+      .content {
+        text-align: center; /* Centering all text */
+      }
+      h2, h3 {
+        margin-bottom: 10px;
+      }
+      .line {
+        margin: 20px auto;
+      }
+
+      /* Mobile-friendly adjustments */
+      @media (max-width: 1130px) {
+        .menu-btn {
+          display: none; /* Hides the hamburger menu */
+        }
+
+        #languageToggle {
+          display: block;
+          margin-top: 20px;
+        }
+
+        .container {
+          margin-top: 80px; /* Adds margin top to prevent blocking by navbar */
+        }
+
+        .navbar .nav-links {
+          display: flex;
+          justify-content: center;
+        }
+
+        .navbar .nav-links li {
+          display: none; /* Hides all links except language toggle */
+        }
+        .navbar .nav-links li.language-btn {
+          display: block; /* Shows language button only */
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar glass" style="height: 70px">
+        <span>
+            <a href="index.html" style="display: flex; align-items: center">
+              <img src="./img/logo.png" alt="" class="logo_img" style="width: 100px; height: auto;"/>
+            </a>
+          </span>
+        <ul class="nav-links">
+
+          <li><p id="languageToggle" class="language-btn">English</p></li>
+        </ul>
+        <img src="./img/menu-btn.png" alt="" class="menu-btn" />
+      </nav>
+
+    <!-- Detail Content Section -->
+    <section class="detail-section">
+        <div class="container">
+            <div class="title">
+                <h1 data-lang="historyResistance.title"></h1>
+                <div class="line" style="width: 80%;"></div>
+            </div>
+            <div class="details">
+                <div class="content">
+                    <h2 data-lang="historyResistance.content.0.title"></h2>
+                    <h3 data-lang="historyResistance.content.0.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.1.title"></h2>
+                    <h3 data-lang="historyResistance.content.1.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.2.title"></h2>
+                    <h3 data-lang="historyResistance.content.2.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.3.title"></h2>
+                    <h3 data-lang="historyResistance.content.3.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.4.title"></h2>
+                    <h3 data-lang="historyResistance.content.4.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.5.title"></h2>
+                    <h3 data-lang="historyResistance.content.5.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.6.title"></h2>
+                    <h3 data-lang="historyResistance.content.6.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.7.title"></h2>
+                    <h3 data-lang="historyResistance.content.7.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.8.title"></h2>
+                    <h3 data-lang="historyResistance.content.8.text"></h3>
+                    <div class="line"></div>
+
+                    <h2 data-lang="historyResistance.content.9.title"></h2>
+                    <h3 data-lang="historyResistance.content.9.text"></h3>
+                    <div class="line"></div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Scripts -->
+      <script src="js/languageManager.js"></script>
+      <script src="https://code.jquery.com/jquery-3.6.0.js"></script>
+      <script src="js/script.js"></script>
+
+  </body>
+</html>

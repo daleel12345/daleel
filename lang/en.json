@@ -1,0 +1,267 @@
+{
+  "siteTitle": "Lebanon Guide",
+  "nav": {
+    "historyLebanon": "History of Lebanon",
+    "historyResistance": "History of the Resistance",
+    "historicalFigures": "Historical Figures",
+    "services": "Services",
+    "map": "Map"
+  },
+  "home": {
+    "welcome": "I Remain Committed to the Covenant",
+    "subtitle": "Welcome to those mourning the Master of Martyrs of the Nation in Lebanon"
+  },
+  "historyLebanon": {
+    "title": "History of Lebanon",
+    "text": "Discover Lebanon's historical journey from its establishment through independence to liberation",
+    "cta": "Read More",
+    "detailsPage": "historyLebanon.html",
+    "content": [
+      {
+        "title": "Emergence of the Entity",
+        "text": "\"Greater Lebanon\" born on September 1, 1920, had been gestating in the womb of the Levant for many years. Its features appeared during the Ottoman period as \"Mount Lebanon\" or \"Little Lebanon\". French General Gouraud declared the establishment of Lebanon with its current borders after severing it from Syria, following the Ottoman defeat in World War I.\n\nLebanon immediately fell under French Mandate during the European colonial division of the Arab East. The Lebanese sought both independence and a clear national identity during this period, issues that continue to impact Lebanon's political reality today."
+      },
+      {
+        "title": "Independence",
+        "text": "Lebanon gained formal independence on November 22, 1943, through political struggle against the French, coinciding with WWII geopolitical changes. The National Pact established a sectarian power-sharing system between Lebanon's different communities."
+      },
+      {
+        "title": "Civil War",
+        "text": "Accumulated tensions exploded into a 15-year civil war (1975-1990), officially ending with the Taif Agreement. While sectarian on surface, the war carried regional dimensions intertwined with the Arab-Israeli conflict. Israel invaded Lebanon up to the Litani River in 1978 during the war."
+      },
+      {
+        "title": "Israeli Invasion",
+        "text": "On June 6, 1982, Israeli forces invaded Lebanon reaching Beirut, aiming to eliminate Palestinian resistance. This invasion sparked the Islamic Resistance in Lebanon (Hezbollah), building on resistance foundations laid by Imam Musa Sadr's Amal Movement in the 1970s."
+      },
+      {
+        "title": "Second Birth",
+        "text": "The 1989 Taif Agreement ended the civil war and restructured Lebanon's political system under Syrian guardianship. This relative stability lasted until Syria's 2005 withdrawal following Prime Minister Rafik Hariri's assassination."
+      },
+      {
+        "title": "Liberation War",
+        "text": "The Islamic Resistance's operations culminated in liberating south Lebanon on May 25, 2000. Israel's 2006 \"July War\" failed to destroy the resistance, ending in divine victory after 33 days. Parts of Lebanese territory remain occupied in Shebaa Farms and Kfar Shuba hills."
+      },
+      {
+        "title": "Doha Agreement",
+        "text": "The 2008 Doha Agreement prevented civil war after political tensions following Hariri's assassination, reaffirming national unity against sectarian strife."
+      },
+      {
+        "title": "Syria War Impact",
+        "text": "The Syrian war brought new security challenges. The resistance protected border areas, culminating in 2017's liberation of Arsal outskirts through joint operations with Lebanese and Syrian armies."
+      },
+      {
+        "title": "Economic Crisis & October 17 Uprising",
+        "text": "Long-term economic mismanagement exploded in nationwide protests starting October 17, 2019, triggering currency collapse and ongoing crises."
+      }
+    ]
+  },
+  "historyResistance": {
+    "title": "History of the Resistance",
+    "text": "Explore the Lebanese resistance's journey from inception to liberation victories",
+    "cta": "Read More",
+    "detailsPage": "historyResistance.html",
+    "content": [
+      {
+        "title": "Foundation: 1982 Israeli Invasion",
+        "text": "The 1982 invasion birthed the Islamic Resistance to counter Israeli occupation, emerging from popular will to defend Lebanese sovereignty."
+      },
+      {
+        "title": "1985: First Withdrawal to Border Zone",
+        "text": "After fierce resistance forced Israeli withdrawal to a \"security zone\", resistance operations intensified against remaining occupation forces."
+      },
+      {
+        "title": "1993: Operation Accountability",
+        "text": "Israel's brutal 1993 aggression failed to break resistance resolve, proving invincibility against popular will."
+      },
+      {
+        "title": "1996: Qana Massacre & Turning Point",
+        "text": "The 1996 \"Grapes of Wrath\" offensive and Qana massacre led to the April Understanding, legitimizing resistance defense rights."
+      },
+      {
+        "title": "May 2000 Liberation: Divine Victory",
+        "text": "Israel's chaotic May 2000 withdrawal marked historic victory, proving occupation's impermanence through divine promise."
+      },
+      {
+        "title": "July 2006 War: Shattering Invincibility Myth",
+        "text": "33-day war saw innovative resistance tactics destroy Israel's military prestige through strategic strikes and ground defense."
+      },
+      {
+        "title": "2017 Second Liberation: Defeating Takfiri Terror",
+        "text": "Joint military operations cleared ISIS from eastern border regions, affirming \"Army-People-Resistance\" formula."
+      },
+      {
+        "title": "Al-Aqsa Flood Operation",
+        "text": "October 7, 2023's unprecedented operation breached Israeli defenses, reshaping regional conflict dynamics."
+      },
+      {
+        "title": "Support Front for Gaza",
+        "text": "Lebanese resistance opened northern front in Gaza war, forcing multi-front combat unprecedented in Israeli history."
+      },
+      {
+        "title": "Battle of the Valiant",
+        "text": "2023-2024 battles saw heroic defense of border villages, ending with UNSC 1701 reaffirmation for full Israeli withdrawal."
+      }
+    ]
+  },
+  "historicalFigures": {
+    "title": "Historical Figures",
+    "text": "Meet key figures shaping Lebanon's political and cultural history",
+    "cta": "Read More",
+    "detailsPage": "historicalFigures.html",
+    "content": [
+      {
+        "title": "Youssef Bey Karam",
+        "text": "19th century resistance leader against Ottoman rule"
+      },
+      {
+        "title": "Riad al-Solh",
+        "text": "First post-independence PM, pivotal in national unity"
+      },
+      {
+        "title": "Khalil Gibran",
+        "text": "World-renowned author of \"The Prophet\""
+      },
+      {
+        "title": "Shahid al-Awwal (Muhammad bin Makki)",
+        "text": "Prominent Shia jurist, author of Al-Lum'a al-Dimashqiyya"
+      },
+      {
+        "title": "Shahid al-Thani (Zayn al-Din al-Juba'i)",
+        "text": "Scholar who annotated Al-Lum'a in Al-Rawda al-Bahiyya"
+      },
+      {
+        "title": "Baha' al-Din al-Amili",
+        "text": "Polymath, Safavid-era scholar in sciences and architecture"
+      },
+      {
+        "title": "Al-Muhaqqiq al-Karaki",
+        "text": "Key figure in spreading Shia thought in Safavid Iran"
+      },
+      {
+        "title": "Sayyid Mohsen al-Amin",
+        "text": "Modern scholar, author of Shia biographical encyclopedia"
+      },
+      {
+        "title": "Sayyid Abdul Hussein Sharafuddin",
+        "text": "Reformist leader, author of Al-Muraja'at"
+      },
+      {
+        "title": "Sayyid Muhammad Jawad Mughniyya",
+        "text": "Modern jurist and Quran exegete"
+      },
+      {
+        "title": "Mikhail Naimy",
+        "text": "Philosophical writer of \"The Book of Mirdad\""
+      },
+      {
+        "title": "Elia Abu Madi",
+        "text": "Prominent Arab diaspora poet"
+      },
+      {
+        "title": "Ameen Rihani",
+        "text": "Pioneering Arab Renaissance thinker"
+      },
+      {
+        "title": "Hassan Kamel Al-Sabbah",
+        "text": "Pioneering electrical engineer and inventor"
+      },
+      {
+        "title": "Ramal Ramal",
+        "text": "Internationally acclaimed physicist"
+      }
+    ]
+  },
+  "services": {
+    "title": "Services",
+    "text": "Comprehensive guide to public services in Lebanon",
+    "cta": "Read More",
+    "detailsPage": "services.html",
+    "content": [
+      {
+        "title": "Getting a SIM Card",
+        "text": "Two mobile providers: touch & alfa. SIM cards cost $10-20 at authorized sellers. Check company websites for plans.",
+        "links": {
+          "touch": "https://www.touch.com.lb/autoforms/portal/touch/personal/prepaid/magic/bundles",
+          "alfa": "https://www.alfa.com.lb/en/prepaid/services/mobile-internet"
+        }
+      },
+      {
+        "title": "Transportation",
+        "text": "Public transport includes:\nBuses: Fixed routes, LBP 100-150k fare\nTaxis: Shared rides, LBP 200-250k per passenger\nRide-hailing: Uber/Bolt with distance-based fares"
+      },
+      {
+        "title": "Currencies",
+        "text": "Lebanese pounds and USD accepted everywhere. Exchange rates:\nUSD: 1 = LBP 90,000\nEUR: 1 = LBP 94,000\nIQD 1,000 = LBP 68,000\nIRR 1,000 = LBP 21,000"
+      },
+      {
+        "title": "Embassies",
+        "text": "Embassy contacts:",
+        "links": {
+          "iraqi": {
+            "location": "https://g.co/kgs/gkLMep4",
+            "phone": "+961 1 780 005"
+          },
+          "iranian": {
+            "location": "https://g.co/kgs/Nai4yHz",
+            "phone": "+961 1 821 230"
+          },
+          "kuwaiti": {
+            "location": "https://g.co/kgs/q9hmmKh",
+            "phone": "+961 71 144 944"
+          }
+        }
+      },
+      {
+        "title": "Emergency Numbers",
+        "text": "Lebanese Red Cross - Civil Defense - Fire Dept - General Security - Internal Security",
+        "links": {
+          "redCross": "140",
+          "civilDefense": "125",
+          "fireDepartment": "175",
+          "generalSecurity": "1717",
+          "internalSecurity": "112"
+        }
+      }
+    ]
+  },
+  "map": {
+    "title": "Map",
+    "text": "Explore Lebanon's geography, cities, and landmarks",
+    "cta": "Read More",
+    "detailsPage": "map.html",
+    "content": [
+      {
+        "title": "Geographic Location",
+        "text": "Lebanon borders Mediterranean Sea, Syria, and occupied Palestine. 10,452 km² area with coastal, mountainous, and plain regions. Beirut is the coastal capital."
+      },
+      {
+        "title": "Governorates",
+        "text": "8 governorates: Beirut, Mount Lebanon, Akkar, North, Baalbek-Hermel, Bekaa, South, Nabatieh. Divided into districts and municipalities."
+      },
+      {
+        "title": "Climate & Terrain",
+        "text": "Mediterranean climate with four seasons. Summer beach tourism, winter skiing in mountain resorts."
+      },
+      {
+        "title": "Major Cities",
+        "text": "Beirut, Tripoli (North), Sidon (South) - each with unique cultural heritage."
+      },
+      {
+        "title": "Historic Sites",
+        "text": "Baalbek Roman temples, Byblos ancient port, Tyre Phoenician ruins, Crusader castles."
+      },
+      {
+        "title": "Natural Areas",
+        "text": "Cedars forests, Qadisha Valley, Faraya ski resorts - year-round tourism destinations."
+      },
+      {
+        "title": "Coastal Regions",
+        "text": "Mediterranean coastline with beaches and resorts, historic ports in coastal cities."
+      },
+      {
+        "title": "Agricultural Zones",
+        "text": "Fertile Bekaa Valley as Lebanon's food basket, famous for vineyards and produce."
+      }
+    ]
+  }
+}
